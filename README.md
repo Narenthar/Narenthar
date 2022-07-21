@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on  Trimble Information Technologies
   
-- 🌱 I’m currently learning React & Node  
+- 🌱 Interested in FullStack Web Development  
   
 - 💬 Ask me about JavaScript, HTML, CSS, React, Node.js
   
