@@ -17,7 +17,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  Trimble Information Technologies
+- 🔭 I’m currently working on  Trimble Information Technologies Pvt Ltd
   
 - 🌱 Interested in FullStack Web Development  
   
