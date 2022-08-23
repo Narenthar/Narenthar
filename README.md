@@ -22,7 +22,7 @@
   
 - :nerd_face: Always `learning new things`
 
-- ✉️ &nbsp;You can shoot me an email at narenthar31@gmail.com! I'll try to respond as soon as I can check. You can find my Resume <a href="https://drive.google.com/file/d/1VwoYuRUpC7hVa6H3NJ6LXFGThGahmRA_/view" target="_blank">here<a/>.
+- ✉️ &nbsp;You can shoot me an email at narenthar31@gmail.com! I'll try to respond as soon as I can check. You can find my Resume <a href="https://drive.google.com/file/d/1O_HCtY7AC5sUh4AhXaWeAcp5Xk-bPEf8/view" target="_blank">here<a/>.
 
 <h2> Skills </h2>
     
