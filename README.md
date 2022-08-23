@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+    <img width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
